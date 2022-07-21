@@ -4,3 +4,4 @@ youtube_dl
 PyNaCl
 pip
 ffmpeg
+discord.ext
