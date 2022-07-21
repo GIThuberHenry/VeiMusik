@@ -1,1 +1,1 @@
-worker: python GURABOT.py
+worker: python Veimusik.py
