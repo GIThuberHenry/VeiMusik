@@ -3,5 +3,4 @@ asyncio
 youtube_dl
 PyNaCl
 pip
-discord.py[voice]
 ffmpeg
