@@ -1,1 +1,1 @@
-worker: python Veimusik.py
+worker: python VEIMUSIK.py
